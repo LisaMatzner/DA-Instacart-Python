@@ -41,4 +41,8 @@ Excel
 “The Instacart Online Grocery Shopping Dataset 2017”,
  Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 2022-12-02.
  
+ "Instacart Customer Data Set", Accessed from https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip on 2022-12-02.
+ 
+ "Instacart Data Dictionary", Accessed from https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b on 2022-12-02.
+ 
  Data on product prices and customers used in this project are fabricated and are not liable to any PII (personal identifiable information) laws.
