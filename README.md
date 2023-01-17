@@ -2,7 +2,7 @@
 
 The Instacart Grocery Basket Analysis is a portfolio project created in 2022. 
 
-The project contains initial data and exploratory analysis of some of Instacarts data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. The main tools/languages used for this project are python (Jupyter) and Excel.
+The project contains initial data and exploratory analysis of some of Instacarts data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. 
 
 ## Context
 The Instacart stakeholders were most interested in the variety of customers in their database along with their purchasing behaviors. They assumed they can't target everyone using the same methods, and they considered a targeted marketing strategy. They wanted to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products. The analysis will inform what this strategy might look like to ensure Instacart targets the right customer profiles with the appropriate products. 
@@ -31,6 +31,10 @@ The stakeholders would like to be able to answer the following key questions:
 ● What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 
 ● What differences can you find in the ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
+
+##Tools
+Python (Jupyter)
+Excel
 
 ## Data Citation
 “The Instacart Online Grocery Shopping Dataset 2017”,
