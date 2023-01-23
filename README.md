@@ -23,9 +23,14 @@ The stakeholders would like to be able to answer the following key questions:
 - What differences can you find in the ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
 ## Project Tools
-Python (Jupyter)
-
-Excel
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Anaconda
+- Jupyter
+- Excel
 
 ## Data Citation
 [“The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017),
