@@ -1,7 +1,5 @@
 # Instacart Grocery Basket Analysis (Python)
 
-The Instacart Grocery Basket Analysis is a portfolio project created in 2022. 
-
 The project contains initial data and exploratory analysis of some of Instacarts data in order to derive insights and suggest strategies for better segmentation based on the provided criteria. 
 
 ## Context
